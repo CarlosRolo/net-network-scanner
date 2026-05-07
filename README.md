@@ -8,7 +8,7 @@
 
 A Python-based network scanner inspired by Nmap. Discovers live hosts via ICMP/ARP, scans TCP ports using multithreading, grabs service banners for version detection, and generates an interactive dark-themed HTML report.
 
-Built as part of my networking portfolio — [github.com/CarlosRolo](https://github.com/CarlosRolo)
+Built as part of my networking portfolio - [github.com/CarlosRolo](https://github.com/CarlosRolo)
 
 ---
 
