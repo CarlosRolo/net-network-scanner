@@ -210,4 +210,4 @@ LinkedIn: [linkedin.com/in/carlosdrodriguezl](https://linkedin.com/in/carlosdrod
 
 ## License
 
-MIT License — see [LICENSE](LICENSE)
+MIT License - see [LICENSE](LICENSE)
